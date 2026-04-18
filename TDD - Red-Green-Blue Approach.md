@@ -1,5 +1,6 @@
 ---
-Theme: "[[Software design]]"
+Theme:
+  - "[[Software design]]"
 ---
 ![[tdd.png]]
 ## 1. **Red**: Define the Goal
